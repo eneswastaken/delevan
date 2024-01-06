@@ -30,7 +30,7 @@ module.exports = async (client) => {
   console.log(chalk.green`[START]` + ` ${client.user.tag} bot aktif!`);
 
   setInterval(async () => {
-    const x = ["Slenzy Activity"]
+    const x = ["Ens Activity"]
         const random = x [
       Math.floor(Math.random() * x.length)];
       client.user.setPresence({
