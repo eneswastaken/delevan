@@ -29,7 +29,7 @@ module.exports = {
             new EmbedBuilder()
               .setColor("Green")
               .setTitle("Başarılı")
-              .setDescription("Başarıyla denetim kaydı sistemini kurdum.\n\nBu proje [@lourity](https://discord.com/users/1123906177923813396) tarafından geliştirilmiştir."),
+              .setDescription("Başarıyla denetim kaydı sistemini kurdum.\n\nBu proje [@ensomg](https://discord.com/users/852629327891660881) tarafından geliştirilmiştir."),
           ],
         });
       }
